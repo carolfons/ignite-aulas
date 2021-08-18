@@ -22,4 +22,4 @@
 
 
 ---
-<p align = "center"> Desenvolvido por Caroline Fonseca </p>
+<p align = "center"> Desenvolvido por Caroline Fonseca & <a href = "https://rocketseat.com.br">RocketSeat :rocket: </p>
